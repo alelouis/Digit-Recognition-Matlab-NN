@@ -8,6 +8,6 @@ Demo : run  `guessMe.m`, this will train the neural network with data from `data
 You can then use :
 `guessImg(prepareImg('name_of_your_file.bmp', columnatZero, mu, sigma, coef),net,classes)`
 
-Accepted image format is black and white 24bits bmp type. (I did some with in `images/` folder, you lazy)
+Accepted image format is black and white 24bits bmp type. (I did some you can found in `images/` folder, you lazy)
 
 *Toolbox scripts written by M. Feuilloy ESEO*
